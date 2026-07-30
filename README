@@ -34,8 +34,3 @@ This dataset contains **189+ human-written conversation pairs** across **14 inte
 - **Total Intents:** 14
 - **Format:** CSV
 - **Language:** English 🇬🇧
-
-## 🚀 Usage
-```python
-import pandas as pd
-df = pd.read_csv('ai_bot.csv')
