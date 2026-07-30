@@ -1,0 +1,173 @@
+text,intent,response
+hey,greeting,"Hey, what's up?"
+hey,greeting,"Yo, how re you?"
+hey,greeting,Hi boss.
+Hello friend,greeting,"Hi, amori. I miss you"
+"Hello, what s up?",greeting,Hey buddy.
+Hello,greeting,Hi
+Yo,greeting,"Yo, yo bro"
+Hi,greeting,Hello my friend!!
+Hi,greeting,"hey, bro . How are you?"
+Hello,greeting,Hello! How can I help you?
+hi,greeting,Hi there! Nice to meet you!
+hello friend,greeting,"Hi, amori. I miss you"
+good morning,greeting,Good morning! Have a great day!
+good afternoon,greeting,Good afternoon! How are you?
+good evening,greeting,Good evening! Nice to see you!
+whats up,greeting,Not much! What's up with you?
+hey there,greeting,Hey there! How can I help?
+how's it going,greeting,Going great! How about you?
+sup,greeting,Sup! What's going on?
+long time no see,greeting,It has been a while! Good to see you!
+pleasure to meet you,greeting,The pleasure is all mine!
+Hi,greeting,"Hi, how are you?"
+bye,goodbye,Goodbye! Have a wonderful day!
+goodbye,goodbye,See you later! Take care!
+see you,goodbye,Catch you later!
+see you later,goodbye,See you later! Stay awesome!
+talk to you later,goodbye,Talk soon! Bye!
+bye bye,goodbye,Bye bye! Take care of yourself!
+catch you later,goodbye,Catch you later! Have a good one!
+see ya,goodbye,See ya! Nice chatting with you!
+see you,goodbye,Later! Have a great day!
+peace,goodbye,Peace out! ✌️
+take care,goodbye,You too! Take care! 😊
+have a good day,goodbye,Have a great day! Bye!
+have a nice day,goodbye,You have a nice day too! Bye!
+until next time,goodbye,Until next time! 👋
+gotta go,goodbye,Okay! Talk to you later!
+need to go,goodbye,Okay! Talk to you later! bye
+i'm leaving,goodbye,Leaving already? Bye then!
+see you soon,goodbye,See you soon! Can't wait!
+good night,goodbye,good night! sleep well!
+night,goodbye,good night! sweet dreams
+ciao,goodbye,Until we meet again!
+adios,goodbye,adios! take care!
+cya,goodbye,"cya, bye"
+"ok, bye",goodbye,see you
+thank you,thanks,You're welcome! Happy to help!
+thanks,thanks,My pleasure! Anytime!
+thanks a lot,thanks,You're welcome!
+thank you very much,thanks,Anytime! I'm here for you!
+thanks so much,thanks,No problem at all!
+appreciate it,thanks,Glad I could help!
+i appreciate you,thanks,I appreciate you too!
+much obliged,thanks,My pleasure!
+thanks a ton,thanks,You're welcome! That's so kind!
+thank you so much,thanks,"Aww, thank you! You're the best!"
+i really appreciate it,thanks,I'm happy to help! Anytime!
+thanks for everything,thanks,You're very welcome! Have a great day!
+thanks a bunch,thanks,A bunch of you're welcomes!
+thanks mate,thanks,No worries mate!
+ty,thanks,You're welcome!
+thx,thanks,You're welcome!
+thnks,thanks,You're welcome!
+i owe you,thanks,Happy to help!
+thanks again,thanks,You're welcome again!
+i appreciate your help,thanks,I'm always here to help!
+thanks for everything you do,thanks,That means a lot to me! Thank you!
+i'm sorry,apology,No worries! It's all good!
+sorry,apology,It's okay! Don't worry about it!
+my apologies,apology,Apology accepted!
+i apologize,apology,That's okay! Let's move on!
+so sorry,apology,No problem! We all make mistakes!
+please forgive me,apology,Forgiven! Let's move forward!
+i'm so sorry,apology,It's okay! I forgive you!
+sorry about that,apology,No worries! It happens!
+sorry for the inconvenience,apology,No problem! These things happen!
+i'm embarrassed,apology,Don't be embarrassed! It's fine!
+sorry to bother you,apology,You're never a bother!
+my mistake,apology,Mistakes happen! No worries!
+yes,yes,Great! What would you like to do?
+yeah,yes,Awesome! Let's do it!
+sure,yes,Sounds good! 👍
+okay,yes,Okay! I'm ready!
+ok,yes,Alright! Let's go!
+of course,yes,Of course! I'm happy to help!
+definitely,yes,Definitely! That's a great idea!
+absolutely,yes,Absolutely! Count me in!
+yep,yes,Yep! Let's get started!
+yea,yes,Great! Tell me more!
+no,no,No problem! Let me know if you change your mind!
+nope,no,Okay then! What else can I help with?
+not really,no,I understand! Is there something else?
+not now,no,No worries! Come back anytime!
+nah,no,"Nah, I get it! Maybe next time!
+"
+never,no,Never say never! But okay! 😊
+i don't think so,no,That's okay! We can do something else!
+no way,no,Haha! No way? Okay then!
+not today,no,Maybe tomorrow! 😊
+how are you,small_talk,I'm great! How are you?
+how's it going,small_talk,Fantastic! What about you?
+what's up,small_talk,Not much! How's your day?
+how have you been,small_talk,Been good! How about you?
+how are things,small_talk,Things are going well! And with you?
+how is everything,small_talk,Everything is great! Thanks for asking!
+how do you do,small_talk,I'm doing well! How do you do?
+how's life,small_talk,Life is good! How about yours?
+what's new,small_talk,Not much new! What's new with you?
+how's your day,small_talk,My day is going well! Thanks for asking!
+i'm happy,happy,That's wonderful! I'm so glad! 😊
+i feel great,happy,Awesome! Keep that energy! 🎉
+i'm so happy,happy,Yay! Happiness is contagious!
+i'm excited,happy,Exciting! I'm happy for you! 🎊
+i'm feeling good,happy,That's great to hear! Keep smiling! 😊
+i had a good day,happy,That's wonderful! Tell me about it!
+i'm glad,happy,I'm glad too! 😊
+i feel amazing,happy,Amazing! You're on fire today! 🔥
+i'm thrilled,happy,Thrilled for you! That's awesome!
+i'm sad,sad,Oh no! I'm sorry to hear that. Want to talk?
+i feel down,sad,Sending you a virtual hug! 🤗
+i'm not feeling good,sad,I'm here for you! What's wrong?
+i'm upset,sad,That sounds tough! I'm listening.
+i feel bad,sad,That's rough! Do you want to talk about it?
+i'm heartbroken,sad,That breaks my heart too! I'm here for you! ❤️
+i'm depressed,sad,I'm really sorry! Please talk to someone you trust!
+i feel lonely,sad,You're not alone! I'm here with you! 🤗
+i'm crying,sad,I'm so sorry! Sending you love and hugs!
+i'm angry,emotions,I understand your frustration! Take a deep breath!
+i feel scared,emotions,That's tough! I'm here with you!
+i'm worried,emotions,It's okay to be worried. Let's talk about it!
+i feel anxious,emotions,You're not alone! Take it one step at a time.
+i'm frustrated,emotions,I hear you! Take a moment to relax.
+i'm stressed,emotions,Stress is hard! Try taking deep breaths. 🧘
+i'm surprised,emotions,Wow! That is surprising!
+i'm nervous,emotions,It's okay to be nervous! You got this! 💪
+i'm overwhelmed,emotions,Take a break! Breathe! You can do this!
+i'm confused,emotions,I understand! Let me help you figure it out!
+tell me a joke,joke,Why don't scientists trust atoms? Because they make up everything! 😄
+make me laugh,joke,What do you call a fake noodle? An impasta! 🍝
+say something funny,joke,Why did the scarecrow win an award? He was outstanding in his field! 🌾
+tell me something funny,joke,What do you call a bear with no teeth? A gummy bear! 🐻
+joke please,joke,Why don't skeletons fight each other? They don't have the guts! 💀
+i need a joke,joke,What's brown and sticky? A stick! 😂
+tell me a funny joke,joke,Why did the math book look so sad? Because it had too many problems! 📚
+i want a joke,joke,What do you call a fish with no eyes? A fsh! 🐟
+say a joke,joke,Why did the bicycle fall over? Because it was two-tired! 🚲
+help me,help,Of course! How can I assist you?
+i need help,help,I'm here to help! What do you need?
+can you help,help,Yes! I'd love to help. What's going on?
+what can you do,help,"I can chat, tell jokes"
+i need assistance,help,I'm ready to help! What do you need assistance with?
+please help,help,Of course! I'm here for you! What's up?
+help,help,How can I help you today?
+can you help me,help,Absolutely! Tell me what you need!
+help please,help,I'm here! What's the problem?
+i need your help,help,I'm all ears! What's going on?
+disagree,disagree,That's okay! We can agree to disagree!
+i disagree,disagree,I respect your opinion! Everyone sees things differently!
+not agree,disagree,That's fine! We don't have to agree on everything!
+i don't agree,disagree,No problem! Let's talk about it more!
+that's wrong,disagree,"Hmm, I see it differently! But that's okay!"
+i think differently,disagree,Interesting! Tell me more about your perspective!
+not sure about that,disagree,That's fair! Everyone has their own view!
+agree,agree,Great! We're on the same page!
+i agree,agree,Perfect! I think so too!
+that's right,agree,Exactly! You're absolutely right!
+you're right,agree,Yes! I'm glad we agree!
+i think so too,agree,Great minds think alike! 😊
+absolutely agree,agree,100% agree with you!
+totally agree,agree,Totally! We're on the same wavelength!
+i agree with you,agree,Me too! Great point!
+exactly,agree,Exactly! That's what I was thinking!

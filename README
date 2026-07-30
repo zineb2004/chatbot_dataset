@@ -1,0 +1,46 @@
+# NovaChat Dataset
+
+A conversational dataset created for training and fine-tuning AI chatbots.
+
+## Contents
+
+- Human-written conversations
+- Multiple conversation intents
+- Natural user inputs and responses
+- CSV format
+- Easy to extend and customize
+
+## Included Intents
+
+- Greeting
+- Goodbye
+- Introduction
+- Thanks
+- Apology
+- Yes
+- No
+- Small Talk
+- Happy
+- Sad
+- Help
+- Joke
+
+## File Format
+
+| text | intent | response |
+
+Example:
+
+text: Hello
+intent: greeting
+response: Hi! How can I help you today?
+
+## Language
+
+- English
+
+## Current Statistics
+
+- Conversation pairs: 171+
+- Intents: 12
+- File format: CSV
